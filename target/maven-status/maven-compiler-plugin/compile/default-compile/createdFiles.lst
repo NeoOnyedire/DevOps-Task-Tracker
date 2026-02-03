@@ -1,0 +1,6 @@
+com/naylor/devops/repository/TaskRepository.class
+com/naylor/devops/model/Task.class
+com/naylor/devops/model/Task$Status.class
+com/naylor/devops/controller/TaskController.class
+com/naylor/devops/DevOpsTaskTrackerApplication.class
+com/naylor/devops/service/TaskService.class
